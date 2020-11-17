@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Jules Lasne (Seluj78)
 
-You can use the [editor on GitHub](https://github.com/Seluj78/seluj78.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Vestibulum in sapien eu metus finibus vestibulum ac at orci. Duis vitae commodo ipsum. Sed porta ante at vulputate malesuada. Sed at feugiat metus. Fusce vel mi porttitor, sodales urna sit amet, scelerisque lectus. Mauris non vehicula orci, nec sagittis felis. Praesent maximus nisl nec massa egestas vehicula. Fusce hendrerit elit risus, eget imperdiet leo blandit luctus. In hac habitasse platea dictumst. Curabitur at leo nibh. Quisque ultricies ex in interdum volutpat.
 
-### Markdown
+### Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Seluj78/seluj78.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Praesent vel leo non tellus gravida faucibus. Sed non dui eu quam egestas lacinia. Fusce condimentum ultrices congue. Morbi mollis nisl at nisi congue condimentum. Mauris urna diam, tempor quis mollis pellentesque, pharetra ac dolor. Vivamus dapibus, purus id fringilla interdum, purus augue viverra est, a pellentesque massa ligula id arcu. Donec massa nisl, pretium quis tellus vitae, finibus luctus ex. Aenean sit amet venenatis ipsum. Curabitur ut ullamcorper nibh. Etiam congue lobortis mauris at mollis. Proin porta tellus a diam mollis, id sodales erat efficitur. Fusce rhoncus feugiat purus. Mauris mollis odio ac velit bibendum semper. Pellentesque sodales feugiat tristique. Nam pellentesque id sem a interdum.
