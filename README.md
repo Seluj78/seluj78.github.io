@@ -2,7 +2,9 @@
 
 ### Projects
 
-Vestibulum in sapien eu metus finibus vestibulum ac at orci. Duis vitae commodo ipsum. Sed porta ante at vulputate malesuada. Sed at feugiat metus. Fusce vel mi porttitor, sodales urna sit amet, scelerisque lectus. Mauris non vehicula orci, nec sagittis felis. Praesent maximus nisl nec massa egestas vehicula. Fusce hendrerit elit risus, eget imperdiet leo blandit luctus. In hac habitasse platea dictumst. Curabitur at leo nibh. Quisque ultricies ex in interdum volutpat.
+Vestibulum in sapien eu metus finibus vestibulum ac at orci.
+
+You can find more info [here](https://juleslasne.com/projects)
 
 ### Interests
 
