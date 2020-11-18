@@ -1,7 +1,0 @@
-# Projects
-
-## XXX
-
-## YYY
-
-## ZZZ
