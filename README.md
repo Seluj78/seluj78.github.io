@@ -6,6 +6,18 @@
 
 My name is Jules, I was born on the 6th of April 1998 and I am a backend developer, who specializes in Python/Flask API development.
 
+I joined [42](https://42.fr) after getting my high school diploma (BAC) in 2016. There, I've learned C, bash, and mostly Python which is the language I mainly use today
+
+<!-- STACK-LIST:START -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<div>
+    <a frameborder="0" data-theme="dark" data-layers="1,3,4,2" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/457004a836ee13cb417619b52f89fd"/></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
+</div>
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- STACK-LIST:END -->
+
 I have done a lot of things in my short programming career as of right now, that you can discover by clicking on the different sections. 
 
 ```
