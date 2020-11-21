@@ -32,7 +32,7 @@ These projects are in the order of when I started them. You can also find more p
     <td align="center"><a href="https://juleslasne.com/hobbies/music-lights-dj"><img src="https://www.onlinelogomaker.com/blog/wp-content/uploads/2017/06/music-logo-design.jpg" width="100px;" alt="Music logo"/><br /><sub><br/><b>Music, Lights and DJing</b></sub></a><br /></td>
     <td align="center"><a href="https://juleslasne.com/hobbies/movies-tvshows"><img src="https://cdn.dribbble.com/users/2264632/screenshots/6708631/final.gif" height="85px;" alt="Movies logo"/><br /><sub><br/><b>Movies and TV Shows</b></sub></a><br /></td>
     <td align="center"><a href="https://juleslasne.com/hobbies/scouting"><img src="https://pbs.twimg.com/profile_images/1132015563822247938/lD2yPA2O.png" height="85px;" alt="SGDF logo"/><br /><sub><br/><b>Scouting</b></sub></a><br /></td>
-    <td align="center"><a href="https://juleslasne.com/hobbies/opensource"><img src=https://img2.freepng.fr/20180425/lye/kisspng-open-source-hardware-free-and-open-source-software-hardware-logo-5ae01ccc78a810.5545820415246368764942.jpg" height="85px;" alt="Open source" /><br /><sub><br/><b>Open source</b></sub></a><br /></td>
+    <td align="center"><a href="https://juleslasne.com/hobbies/opensource"><img src="https://img2.freepng.fr/20180425/lye/kisspng-open-source-hardware-free-and-open-source-software-hardware-logo-5ae01ccc78a810.5545820415246368764942.jpg" height="85px;" alt="Open source" /><br /><sub><br/><b>Open source</b></sub></a><br /></td>
   </tr>
 </table>
 <!-- markdownlint-enable -->
