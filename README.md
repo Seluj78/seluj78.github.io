@@ -8,6 +8,10 @@ My name is Jules, I was born on the 6th of April 1998 and I am a backend develop
 
 I have done a lot of things in my short programming career as of right now, that you can discover by clicking on the different sections. 
 
+```
+I am not currently looking for a job, but am open for interviews and/or small freelance jobs for supplemental income.
+```
+
 ### Open source projects
 
 These projects are in the order of when I started them. You can also find more projects on my Github by clicking the `More projects` link.
