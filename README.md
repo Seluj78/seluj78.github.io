@@ -1,5 +1,13 @@
 ## Jules Lasne (Seluj78)
 
+`Disclaimer: I am not a frontend developer, and this website has been made using Markdown and Github Pages`
+
+### Who am I?
+
+My name is Jules, I was born on the 6th of April 1998 and I am a backend developer, who specializes in Python/Flask API development.
+
+I have done a lot of things in my short programming career as of right now, that you can discover by clicking on the different sections. 
+
 ### Open source projects
 
 These projects are in the order of when I started them. You can also find more projects on my Github by clicking the `More projects` link.
