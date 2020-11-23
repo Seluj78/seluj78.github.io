@@ -1,4 +1,4 @@
-## Jules Lasne (Seluj78)
+## Jules Lasne ([Seluj78](https://compiled.social/seluj78))
 
 `Disclaimer: I am not a frontend developer, and this website has been made using Markdown and Github Pages`
 
@@ -76,3 +76,26 @@ For more info, checkout my [Linkedin](https://www.linkedin.com/in/jules-lasne/)
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- WORK-LIST:END -->
+
+
+### Social Networks
+
+Connect with me!
+
+<!-- CONTACT-LIST:START -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://juleslasne.com"><img src="https://img2.freepng.fr/20180219/kbq/kisspng-web-development-logo-world-wide-web-website-clip-a-web-symbol-cliparts-5a8a7f83c47ef9.3295824315190260518049.jpg" alt="Website logo"/><br /><sub><br/><b>Website</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/seluj78"><img src="https://pngimg.com/uploads/github/github_PNG40.png" alt="Github logo"/><br /><sub><br/><b>Github</b></sub></a><br /></td>
+    <td align="center"><a href="https://twitter.com/seluj78"><img src="https://www.benodet.fr/wp-content/uploads/sites/2/2018/08/twitter-logo.png" alt="Twitter logo"/><br /><sub><br/><b>Twitter</b></sub></a><br /></td>
+    <td align="center"><a href="https://facebook.com/jules.lasne"><img src="https://www.adeoinformatique.com/contenu/uploads/2019/03/facebook-logo-png-transparent-background.png" alt="Facebook logo"/><br /><sub><br/><b>Facebook</b></sub></a><br /></td>
+    <td align="center"><a href="https://instagram.com/jules_lasne"><img src="https://png.pngtree.com/element_our/md/20180626/md_5b321ca3631b8.jpg" alt="Instagram logo"/><br /><sub><br/><b>Instagram</b></sub></a><br /></td>
+    <td align="center"><a href="mailto:jules.lasne@gmail.com"><img src="https://assets.stickpng.com/images/584856b4e0bb315b0f7675ac.png" alt="Email logo"/><br /><sub><br/><b>Email</b></sub></a><br /></td>
+    <td align="center"><a href="tel:+33six40736355"><img src="https://w7.pngwing.com/pngs/831/26/png-transparent-telephone-logo-telephone-call-computer-icons-symbol-phone-miscellaneous-cdr-text.png" alt="Phone logo"/><br /><sub><br/><b>Phone</b></sub></a><br /></td>
+  </tr>
+</table>
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- CONTACT-LIST:END -->
