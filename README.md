@@ -37,23 +37,6 @@ These projects are in the order of when I started them. You can also find more p
 <!-- prettier-ignore-end -->
 <!-- PROJECTS-LIST:END -->
 
-### Hobbies
-
-
-<!-- HOBBIES-LIST:START -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://juleslasne.com/hobbies/music-lights-dj"><img src="https://www.onlinelogomaker.com/blog/wp-content/uploads/2017/06/music-logo-design.jpg" width="100px;" alt="Music logo"/><br /><sub><br/><b>Music, Lights and DJing</b></sub></a><br /></td>
-    <td align="center"><a href="https://juleslasne.com/hobbies/movies-tvshows"><img src="https://cdn.dribbble.com/users/2264632/screenshots/6708631/final.gif" height="85px;" alt="Movies logo"/><br /><sub><br/><b>Movies and TV Shows</b></sub></a><br /></td>
-    <td align="center"><a href="https://juleslasne.com/hobbies/scouting"><img src="https://pbs.twimg.com/profile_images/1132015563822247938/lD2yPA2O.png" height="85px;" alt="SGDF logo"/><br /><sub><br/><b>Scouting</b></sub></a><br /></td>
-    <td align="center"><a href="https://juleslasne.com/hobbies/opensource"><img src="https://img2.freepng.fr/20180425/lye/kisspng-open-source-hardware-free-and-open-source-software-hardware-logo-5ae01ccc78a810.5545820415246368764942.jpg" height="85px;" alt="Open source" /><br /><sub><br/><b>Open source</b></sub></a><br /></td>
-  </tr>
-</table>
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- HOBBIES-LIST:END -->
 
 ### Work experiences
 
@@ -77,6 +60,24 @@ For more info, checkout my [Linkedin](https://www.linkedin.com/in/jules-lasne/)
 <!-- prettier-ignore-end -->
 <!-- WORK-LIST:END -->
 
+### Hobbies
+
+
+<!-- HOBBIES-LIST:START -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://juleslasne.com/hobbies/music-lights-dj"><img src="https://www.onlinelogomaker.com/blog/wp-content/uploads/2017/06/music-logo-design.jpg" width="100px;" alt="Music logo"/><br /><sub><br/><b>Music, Lights and DJing</b></sub></a><br /></td>
+    <td align="center"><a href="https://juleslasne.com/hobbies/movies-tvshows"><img src="https://cdn.dribbble.com/users/2264632/screenshots/6708631/final.gif" height="85px;" alt="Movies logo"/><br /><sub><br/><b>Movies and TV Shows</b></sub></a><br /></td>
+    <td align="center"><a href="https://juleslasne.com/hobbies/scouting"><img src="https://pbs.twimg.com/profile_images/1132015563822247938/lD2yPA2O.png" height="85px;" alt="SGDF logo"/><br /><sub><br/><b>Scouting</b></sub></a><br /></td>
+    <td align="center"><a href="https://juleslasne.com/hobbies/opensource"><img src="https://img2.freepng.fr/20180425/lye/kisspng-open-source-hardware-free-and-open-source-software-hardware-logo-5ae01ccc78a810.5545820415246368764942.jpg" height="85px;" alt="Open source" /><br /><sub><br/><b>Open source</b></sub></a><br /></td>
+  </tr>
+</table>
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- HOBBIES-LIST:END -->
+
 
 ### Social Networks
 
@@ -92,7 +93,7 @@ Connect with me!
     <td align="center"><a href="https://twitter.com/seluj78"><img src="https://www.benodet.fr/wp-content/uploads/sites/2/2018/08/twitter-logo.png" alt="Twitter logo"/><br /><sub><br/><b>Twitter</b></sub></a><br /></td>
     <td align="center"><a href="https://facebook.com/jules.lasne"><img src="https://www.adeoinformatique.com/contenu/uploads/2019/03/facebook-logo-png-transparent-background.png" alt="Facebook logo"/><br /><sub><br/><b>Facebook</b></sub></a><br /></td>
     <td align="center"><a href="https://instagram.com/jules_lasne"><img src="https://png.pngtree.com/element_our/md/20180626/md_5b321ca3631b8.jpg" alt="Instagram logo"/><br /><sub><br/><b>Instagram</b></sub></a><br /></td>
-    <td align="center"><a href="mailto:jules.lasne@gmail.com"><img src="https://assets.stickpng.com/images/584856b4e0bb315b0f7675ac.png" alt="Email logo"/><br /><sub><br/><b>Email</b></sub></a><br /></td>
+    <td align="center"><a href="mailto:jules.lasne@gmail.com"><img src="https://i.pinimg.com/originals/bb/18/bd/bb18bdbbef437b2d50518db5a8292c94.png" alt="Email logo"/><br /><sub><br/><b>Email</b></sub></a><br /></td>
     <td align="center"><a href="tel:+33six40736355"><img src="https://w7.pngwing.com/pngs/831/26/png-transparent-telephone-logo-telephone-call-computer-icons-symbol-phone-miscellaneous-cdr-text.png" alt="Phone logo"/><br /><sub><br/><b>Phone</b></sub></a><br /></td>
   </tr>
 </table>
